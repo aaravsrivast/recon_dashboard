@@ -1,0 +1,13 @@
+transaction_id,customer_id,type,status,transaction_date,gross_amount,processor_fee,net_amount,expected_settlement_date
+P-001,CUST-001,payment,settled,2025-01-02 10:00:00,100.00,2.90,97.10,2025-01-03
+P-002,CUST-002,payment,settled,2025-01-03 11:00:00,250.00,7.25,242.75,2025-01-04
+P-003,CUST-003,payment,settled,2025-01-04 12:00:00,75.50,2.19,73.31,2025-01-05
+P-004,CUST-004,payment,settled,2025-01-05 13:00:00,999.99,29.00,970.99,2025-01-06
+P-005,CUST-005,payment,settled,2025-01-06 14:00:00,1500.00,43.50,1456.50,2025-01-07
+P-006,CUST-006,payment,settled,2025-01-07 15:00:00,42.10,1.22,40.88,2025-01-08
+P-007,CUST-007,payment,settled,2025-01-08 16:00:00,333.33,9.67,323.66,2025-01-09
+P-008,CUST-008,payment,settled,2025-01-09 17:00:00,88.00,2.55,85.45,2025-01-10
+P-009,CUST-009,payment,settled,2025-01-31 20:00:00,1972.49,57.50,1914.99,2025-02-01
+P-010,CUST-010,payment,settled,2025-01-10 18:00:00,500.00,14.50,485.50,2025-01-11
+P-011,CUST-011,payment,settled,2025-01-11 19:00:00,1706.75,49.80,1656.95,2025-01-12
+P-012,CUST-012,payment,settled,2025-01-12 20:00:00,150.00,4.35,145.65,2025-01-13
